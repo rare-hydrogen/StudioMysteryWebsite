@@ -3,8 +3,10 @@ baseURL = 'https://www.studiomystery.com'
 languageCode = 'en-us'
 title = 'Studio Mystery'
 theme = 'hugo-book'
+summaryLength = 40
 [params]
-    # BookTheme = 'dark'
+    BookTheme = 'dark'
     BookSection = '*'
     BookLogo = '/images/favicon.png'
     BookFavicon = '/images/favicon.png'
+    BookSearch = false

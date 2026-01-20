@@ -1,3 +1,6 @@
 /* You can add custom styles here. */
 
 // @import "plugins/numbered";
+article>h1, article>h2, article>h3, article>h4, article>h5, article>h6, article>h1>a{
+    color: #ffdd66 !important/*rgb(132, 178, 255)*/
+}
