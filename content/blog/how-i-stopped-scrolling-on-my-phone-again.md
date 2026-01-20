@@ -6,8 +6,6 @@ tags: [Doom-Scrolling, Addiction, Smartphone, Minimalist Launcher, Feeder]
 categories: [Personal]
 ---
 
-## Intro
-
 A while back, I wrote up a post about doom-scrolling and phone addiction. Since then, my habits have changed and I wanted to make an update because I've made even more progress.
 
 If you haven't [read the old post](/how-i-stopped-scrolling-on-my-phone), check it out. Or just read the following summary to see what I had tried earlier:

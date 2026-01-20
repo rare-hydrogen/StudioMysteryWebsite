@@ -6,8 +6,6 @@ tags: [Doom-Scrolling, Addiction, Smartphone, Minimalist Launcher, Feeder, Plex]
 categories: [Personal]
 ---
 
-## Intro
-
 The most popular apps and websites are designed to hook you like a drug. I had struggled for years with internet addiction, but finally feel free.
 
 Here’s what worked for me:
