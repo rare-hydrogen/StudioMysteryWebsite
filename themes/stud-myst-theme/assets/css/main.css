@@ -1,0 +1,119 @@
+@import "components/header.css";
+@import "components/footer.css";
+
+:root {
+  /*--font-heading: "Holiday Notes", cursive;*/
+  --font-heading: "Pontano Sans", sans-serif;
+  --font-body: "Pontano Sans", sans-serif;
+}
+
+body {
+  color: white;
+  background-color: black;
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-family: var(--font-body);
+  background-repeat: repeat;
+  background-size: auto;
+  margin: 0;
+}
+
+a {
+  color: #5ea9e6;
+  text-decoration: none;
+}
+
+/* logo */
+.header-footer-bar {
+  padding: 1rem 0;
+}
+
+.logo-container a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+
+  text-decoration: none;
+}
+
+.logo-icon {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.logo {
+  font-family: "Holiday Notes", cursive;
+  font-size: 2rem;
+  line-height: 1;
+  color: white;
+}
+
+/* fonts */
+@font-face {
+  font-family: "Holiday Notes";
+  src: url("../fonts/holiday-notes.regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pontano Sans";
+  src: url("/fonts/pontano-sans.regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
+
+/* Images within main post section*/
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* 3 column flow */
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-center {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 3rem;
+  min-width:10%
+}
+
+.container-sides {
+  margin: 10px;
+  padding: 3rem;
+  min-width:10%;
+  background-image: url("/images/dot-graph3.webp");
+  background-repeat: repeat;
+  background-position: center;
+}
+
+.layout-bar {
+  text-align: center;
+  min-width: 100%;
+}
+
+/* Random bs fixes*/
+nav > ul {
+  margin: 0px;
+}
+
+footer > p {
+  margin: 0px;
+  padding: 10px
+}
