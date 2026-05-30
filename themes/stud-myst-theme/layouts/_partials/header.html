@@ -1,9 +1,35 @@
-<div class="header-footer-bar">
-    <div class="logo-container">
-        <a class="flex align-center" href="/">
-            <img src="/images/favicon.png" alt="Logo" class="logo-icon">
-            <span class="logo">{{ site.Title }}</span>
-        </a>
+<div class="header-bar">
+    <button onclick="toggleMenu()" class="menu-button">
+        <span id="menu-button-text" class="logo-text">=</span>
+    </button>
+    <div class="logo-space">
+        <div class="logo-container">
+            <a class="flex align-center" href="/">
+                <img src="/images/favicon.png" alt="Logo" class="logo-icon">
+                <span class="logo-text">{{ site.Title }}</span>
+            </a>
+        </div>
+    </div>
+    <div class="long-menu">
+        {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
     </div>
 </div>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<div id="menu-slideout">
+    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>
+
+<script>
+    function toggleMenu() {
+        const menu = document.getElementById("menu-slideout");
+        const menuButtonText = document.getElementById("menu-button-text");
+        const display = menu.style.display
+        if (display === "none" || display === "") {
+            menu.style.display = "block";
+            menuButtonText.innerText = "x"
+
+        } else {
+            menu.style.display = "none";
+            menuButtonText.innerText = "="
+        }
+    };
+</script>

@@ -2,7 +2,7 @@ googleAnalytics = "G-T6RJY7HY09"
 baseURL = 'https://www.studiomystery.com'
 languageCode = 'en-us'
 title = 'Studio Mystery'
-theme = 'hugo-book'
+theme = 'stud-myst-theme'
 summaryLength = 40
 [params]
     BookTheme = 'dark'
