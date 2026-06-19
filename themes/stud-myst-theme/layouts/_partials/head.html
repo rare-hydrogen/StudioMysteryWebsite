@@ -1,5 +1,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalytics }}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{ .Site.Params.GoogleAnalytics }}');
+</script>
 <link rel="icon" type="image/x-icon" href="/images/favicon.png">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}

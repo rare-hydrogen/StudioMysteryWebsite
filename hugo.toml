@@ -1,4 +1,3 @@
-googleAnalytics = "G-T6RJY7HY09"
 baseURL = 'https://www.studiomystery.com'
 languageCode = 'en-us'
 title = 'Studio Mystery'
@@ -10,3 +9,4 @@ summaryLength = 40
     BookLogo = '/images/favicon.png'
     BookFavicon = '/images/favicon.png'
     BookSearch = false
+    GoogleAnalytics = "G-T6RJY7HY09"
