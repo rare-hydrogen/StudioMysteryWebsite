@@ -7,14 +7,24 @@ title: SoftWar
 
 ---
 
+{{< pull-quote >}}
+
+{{< n-p >}}The year is 3926, and humanity is no longer alone in the universe.{{< /n-p >}}
+{{< n-p >}}We are embroiled in a new kind of war with our neighbors:{{< /n-p >}}
+{{< n-p >}}A war of technology. A soft war.{{< /n-p >}}
+
+{{< / pull-quote >}}
+
+---
+
 {{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/softwar/strikebreaker/strikebreaker-cover-template.webp" headline="SOFTWAR: STRIKE BREAKER" >}}
 
 {{< n-p >}}
-Workers on the icy rim-world Karthos-23b have formed a union and are refusing to work. Their corporate overlords are refusing to negotiate, and have sent in Scabs to starve them out.
+Workers on the icy rim-world Karthos-23b have formed a union and are refusing to work. Their corporate overlords are refusing to negotiate, and have sent in scabs to starve them out.
 {{< /n-p >}}
 
 {{< n-p >}}
-But what happens when the scabs never arrive, and a revolutionary lands on the planet?
+But what happens when the scabs never arrive, and a revolutionary lands on the planet instead?
 {{</ n-p >}}
 
 {{< button-new href="asdf" label="Pre-Order Now" color="#5ea9e6" >}}
@@ -24,17 +34,17 @@ But what happens when the scabs never arrive, and a revolutionary lands on the p
 
 ---
 
-{{< pull-quote >}}
+## Enter the Universe of SOFTWAR:
 
-{{< n-p >}}The year is 3943, and humanity is no longer alone in the universe.{{< /n-p >}}
-{{< n-p >}}We are embroiled in a new kind of war with our neighbors:{{< /n-p >}}
-{{< n-p >}}A war of technology. A soft war.{{< /n-p >}}
+In 3013, almost a millenia ago, the first sublight space engine was built and humanity began to venture beyond the stars.
 
-{{< / pull-quote >}}
+We discovered two other hostile alien space-faring civilizations, though neither were as advanced as ours. Ulitmately, ours is a galaxy of three factions: the human Free Trade Alliance, the reptilian Zard Empire of the planet Zilla, and the monsterous warrior cult known as the Durok of planet Goffgarlica.
 
-Enter the universe of SoftWar, a galaxy of three factions: the human Free Trade Alliance, the reptilian Zard Empire of planet Zilla, and the monsterous warrior cult known as the Durok of planet Goffgarlica. In 3013, when the first sublight space engine was developed and humanity began to venture beyond the stars, we could never have imagined we'd find not one, but two hostile cultures of intelligent xeno life, awaiting us.
+At home on Earth, things aren't much better.
 
-At home, things aren't much better. Mankind has reaped the harvest of its unsustainable youth, and now we all suffer the consequences. Our oceans have swollen to cover over half of the pre-industrial continental land-mass. We've pushed ourselves to the brink of starvation, terraformed the remaining dry land into mass agriculture and crammed billions of our remaining population into cramped hive-cities standing above once great metropolises. A captialist renaissance overthrew the previous world government, and replaced it with a corpo-puppet-state.
+Our oceans have swollen and cover half the planet, while the other half was retro-terraformed for mass agriculture. We've pushed ourselves to the brink of starvation, and crammed billions into cramped hive-cities standing above once great metropolises.
+
+The one question one everyone's mind: How long will the period of data-stealing and technical rivalry progress, before an intergalactic open war tears the universe apart?
 
 ---
 

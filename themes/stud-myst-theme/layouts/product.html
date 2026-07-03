@@ -2,15 +2,10 @@
 {{ .Content }}
 {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 <style>
-    .container-sides {
-        width: 0px;
-        min-width: 0px;
-    }
-
-    main img {
-        max-width: 100%;
-        display: block;
-        margin: 0 auto;
+    .container-center {
+        flex: 10;
+        padding: 3rem;
+        margin: 0 10px;
     }
 </style>
 {{ end }}

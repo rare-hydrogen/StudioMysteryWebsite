@@ -1,14 +1,14 @@
 ---
-type: docs
+layout: no-title-page
 title: About
 weight: 1
 bookHidden: true
 ---
 
-{{< img-hero src="/images/favicon.png" headline="Studio Mystery" >}}
+{{< img-hero src="/images/favicon.png" headline="Meet Studio Mystery" >}}
 
 {{< n-p >}}
-Studio Mystery is an indie game studio focusing on narrative-driven RPGs.
+Studio Mystery is an indie media studio focusing on narrative-driven RPGs.
 {{</ n-p >}}
 
 {{< n-p >}}
