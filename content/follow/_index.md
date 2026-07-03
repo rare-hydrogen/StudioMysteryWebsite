@@ -5,23 +5,40 @@ weight: 1
 bookHidden: true
 ---
 
-Interested in my work? Enjoy my writing? Want updates when I post something new? Pick your favorite way to follow me:
+{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/blog/rare-hyrdrogen.webp" headline="" >}}
 
-## Follow me on BlueSky
+{{< n-p >}}
+Hello there.
+{{< /n-p >}}
 
-If you like BlueSky, you can follow me Here:
+{{< n-p >}}
+Online, I go by Rare Hydrogen. I run Studio Mystery as a publisher for my creative work.
+{{< /n-p >}}
 
-- [BlueSky](https://bsky.app/profile/rare-hydrogen.bsky.social)
+{{< n-p >}}
+Interested in what I'm building? Pick your favorite way to follow me:
+{{</ n-p >}}
+
+{{</ img-hero >}}
+
+## Follow me on Bluesky
+
+If you like Bluesky, you can follow me.
+
+- [Follow on Bluesky](https://bsky.app/profile/rare-hydrogen.bsky.social)
+
+---
 
 ## Subscribe using RSS
 
-This is the way you should consume news feeds, especially on your phone:
+[What is RSS?](https://rss.com/blog/how-do-rss-feeds-work/) This is the way you should consume news feeds, especially on your phone.
 
-- [Why you should use RSS feed reader](https://rss.com/blog/how-do-rss-feeds-work/)
-- [Studio Mystery RSS Feed](/index.xml)
+- [Subscribe with RSS Feed](/index.xml)
 
-## Subscribe for (Very) Infrequent Emails
+---
+
+## Subscribe for Emails
 
 Wanna get an email when I post a new blog or launch a new project?
 
-- [Sign-Up for Emails](http://eepurl.com/jDnOvQ)
+- [Subscribe for Emails](http://eepurl.com/jDnOvQ)

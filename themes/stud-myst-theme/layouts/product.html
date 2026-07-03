@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ .Content }}
+{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+<style>
+    .container-sides {
+        width: 0px;
+        min-width: 0px;
+    }
+
+    main img {
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+{{ end }}

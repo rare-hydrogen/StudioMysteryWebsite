@@ -1,0 +1,17 @@
+{{ $src := .Get "src" }}
+{{ $headline := .Get "headline" }}
+{{ $href := .Get "href" }}
+{{ $label := .Get "label" }}
+<div class="book-hero">
+    <div display="block">
+        <div>
+            <img src="{{ $src }}"></img>
+        </div>
+    </div>
+    <div display="block">
+        <div>
+            <h2>{{ $headline }}</h2>
+            <p>{{ .Inner }}</p>
+        </div>
+    </div>
+</div>

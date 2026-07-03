@@ -1,0 +1,12 @@
+.book-hero {
+  display: inline-block;
+}
+
+.book-hero > div {
+  float: left;
+  width: 50%;
+}
+
+.book-hero > div > div {
+  margin: 10px;
+}

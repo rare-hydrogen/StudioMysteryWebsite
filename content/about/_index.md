@@ -5,8 +5,16 @@ weight: 1
 bookHidden: true
 ---
 
-Studio Mystery is an indie game studio focusing on narrative-driven RPGs. It is run by [Rare Hydrogen](https://bsky.app/profile/rare-hydrogen.bsky.social), a writer, developer, tester, and gaming enthusiast.
+{{< img-hero src="/images/favicon.png" headline="Studio Mystery" >}}
 
-## Follow
+{{< n-p >}}
+Studio Mystery is an indie game studio focusing on narrative-driven RPGs.
+{{</ n-p >}}
 
-If you want to reach out, follow me on [BlueSky](https://bsky.app/profile/rare-hydrogen.bsky.social) and send me a message.
+{{< n-p >}}
+It is run by <a href="https://bsky.app/profile/rare-hydrogen.bsky.social">Rare Hydrogen</a>, a writer, developer, tester, and gaming enthusiast.
+{{</ n-p >}}
+
+{{</ img-hero >}}
+
+{{< widen >}}
