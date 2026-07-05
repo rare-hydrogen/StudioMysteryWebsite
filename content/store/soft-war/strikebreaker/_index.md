@@ -1,21 +1,21 @@
 ---
 layout: product
-title: SoftWar
+title: Soft War
 ---
 
-{{< button-new href="/products/softwar" label="Back to SoftWar" color="gray" >}}
+{{< button-new href="/store/soft-war" label="Back to Soft War" color="gray" >}}
 
-{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/softwar/strikebreaker/strikebreaker-cover-template.webp" headline="SOFTWAR: STRIKE BREAKER" href="asdf" label="Pre-Order Now" >}}
+{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/soft-war/strikebreaker/strikebreaker-cover-template.webp" headline="Soft War: STRIKEBREAKER" >}}
 
 {{< n-p >}}
-<i>SoftWar: Strike Breaker is a militant cyberpunk thriller where class war meets high-tension workplace espionage.</i>
+<i>Soft War: Strikebreaker is a militant cyberpunk thriller where class war meets high-tension workplace espionage.</i>
 {{< /n-p >}}
 
 {{< n-p >}}
 <i>Power to the People.</i>
 {{< /n-p >}}
 
-{{< button-new href="asdf" label="Pre-Order Now" color="#5ea9e6" >}}
+{{< button-new href="https://buy.stripe.com/4gMfZi8T7eZU8K96Atawo05" label="Pre-Order Now" color="#5ea9e6" >}}
 
 {{</ img-hero >}}
 
@@ -32,7 +32,7 @@ A fuel refinery on the frozen rimworld Karthos-23b is embroiled in a full-blown 
 {{< /n-p >}}
 
 {{< n-p >}}
-What nobody knows is that scab is secretly Dice Hagar, a hyper-lethal salt agent who's ready to agitate, and push the strike even farther to beat the bosses.
+What nobody knows is that scab is secretly Dice Hagar, a hyper-lethal salt agent who's ready to agitate, and push the strike even further to beat the bosses.
 {{< /n-p >}}
 
 {{< n-p >}}
