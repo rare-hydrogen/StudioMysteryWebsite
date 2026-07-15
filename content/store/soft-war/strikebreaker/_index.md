@@ -47,7 +47,7 @@ Follow Dice's adventure as he fans the flames of labor revolution, and works fro
 
 ## Sample Chapter
 
-Coming soon!
+Want to read the sample chapter? Check it out here: [Sample Chapter](/blog/soft-war-strikebreaker-sample-chapter).
 
 ---
 
