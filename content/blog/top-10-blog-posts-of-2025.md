@@ -2,9 +2,8 @@
 title: Top 10 Blog Posts of 2025
 date: 2025-12-29
 slug: top-10-blog-posts-of-2025
-categories: [Web Dev]
-
 tags: [Essays, Culture, Internet, Big Tech, Politics, Law, Security]
+categories: [Personal]
 ---
 
 Late in 2024, I downloaded an [RSS feed reader](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=en-US) and began using it as my primary scrolling news feed. What a difference that has made in my personal relationship with the internet! It’s like using a GOOD version of Reddit with zero ads and only interesting content I subscribed to!

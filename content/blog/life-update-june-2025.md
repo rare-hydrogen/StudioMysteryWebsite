@@ -1,9 +1,9 @@
 ---
-title: Life Update June 2025
+title: Project Update June 2025
 date: 2025-06-14
 slug: life-update-june-2025
-tags: [Life]
-categories: [Personal]
+tags: [Project Updates]
+categories: [Project Updates]
 ---
 
 ## Where I've Been

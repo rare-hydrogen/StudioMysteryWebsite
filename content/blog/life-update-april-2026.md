@@ -1,9 +1,9 @@
 ---
-title: Life Update April 2026
+title: Project Update April 2026
 date: 2026-04-04
 slug: life-update-april-2026
-tags: [Life]
-categories: [Personal]
+tags: [Project Updates]
+categories: [Project Updates]
 ---
 
 ### Where I've Been
