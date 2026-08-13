@@ -6,6 +6,8 @@ tags: [Project Updates]
 categories: [Project Updates]
 ---
 
+![Hand-drawn picture of cartoon me in the woods looking lost and frustrated](https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/blog/woods-blog-header.webp)
+
 I'm going to try something a little different and write a very meta, state-of-the-brand type post.
 
 ## I have been lost in the woods for six years

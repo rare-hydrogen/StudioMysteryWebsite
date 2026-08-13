@@ -6,7 +6,7 @@ tags: [Soft War, Strikebreaker, Sample Chapter]
 categories: [Fiction]
 ---
 
-![Soft War Logo](https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/soft-war/strikebreaker/soft-war-blk-wing.png)
+![Soft War Logo](https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/store/soft-war/strikebreaker/soft-war-logo-2.png)
 
 _Note: This is a sample chapter of my upcoming [book Soft War: Strikebreaker](/store/soft-war/strikebreaker). Some things might change._
 

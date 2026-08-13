@@ -3,7 +3,7 @@ layout: product-line
 title: Soft War
 ---
 
-![Soft War Logo](https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/soft-war/strikebreaker/soft-war-blk-wing.png)
+![Soft War Logo](https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/store/soft-war/strikebreaker/soft-war-logo-2.png)
 
 ---
 
@@ -17,7 +17,7 @@ title: Soft War
 
 ---
 
-{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/soft-war/strikebreaker/strikebreaker-cover-template.webp" headline="SOFT WAR: STRIKEBREAKER" >}}
+{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/store/soft-war/strikebreaker/strikebreaker-cover-2.webp" headline="SOFT WAR: STRIKEBREAKER" >}}
 
 {{< n-p >}}
 Workers on the icy rim-world Karthos-23b have formed a union and are striking on the job. Their corporate overlords are refusing to negotiate, and have sent in scabs to starve them out.

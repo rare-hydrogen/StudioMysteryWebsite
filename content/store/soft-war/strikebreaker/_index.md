@@ -5,7 +5,7 @@ title: Soft War
 
 {{< button-new href="/store/soft-war" label="Back to Soft War" color="gray" >}}
 
-{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/products/soft-war/strikebreaker/strikebreaker-cover-template.webp" headline="Soft War: STRIKEBREAKER" >}}
+{{< img-hero src="https://sm-bucket.nyc3.cdn.digitaloceanspaces.com/gp-1/studiomystery/store/soft-war/strikebreaker/strikebreaker-cover-2.webp" headline="Soft War: STRIKEBREAKER" >}}
 
 {{< n-p >}}
 <i>Soft War: Strikebreaker is a militant cyberpunk thriller where class war meets high-tension workplace espionage.</i>
